@@ -1,1 +1,6 @@
 # pracexam
+
+KRISTA JAPONA
+BSCS
+SOFT ENG
+CS31
